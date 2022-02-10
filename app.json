@@ -3,6 +3,7 @@
     "name": "manonapp",
     "slug": "manonapp",
     "version": "1.0.0",
+    "owner":"manonab",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
